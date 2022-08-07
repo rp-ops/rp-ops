@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-I'm
-Programmer Analyst in Cognizant
+I'm a
+Programmer Analyst at Cognizant
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of client websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB).
 
 
